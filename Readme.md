@@ -17,7 +17,6 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
-# apni manzil apni mehnat
 
 ## Installation
 
